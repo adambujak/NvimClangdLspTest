@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/adambujak/Workspace/cmake_prac/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/adambujak/Workspace/cmake_prac/public  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_test.dir/main.cpp.o -c /Users/adambujak/Workspace/cmake_prac/main.cpp",
+  "file": "/Users/adambujak/Workspace/cmake_prac/main.cpp",
+  "output": "CMakeFiles/my_test.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/adambujak/Workspace/cmake_prac/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/adambujak/Workspace/cmake_prac/public  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_test.dir/private/wontFind.cpp.o -c /Users/adambujak/Workspace/cmake_prac/private/wontFind.cpp",
+  "file": "/Users/adambujak/Workspace/cmake_prac/private/wontFind.cpp",
+  "output": "CMakeFiles/my_test.dir/private/wontFind.cpp.o"
+}
+]
